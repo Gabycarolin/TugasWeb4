@@ -1,0 +1,53 @@
+
+.form{
+    background-color: orangered;
+    padding: 
+}
+
+.produk{
+    background-color: orangered;
+    padding: 12px;
+}
+
+.navbar{
+    font-style: inherit;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:rgb(110, 93, 93); 
+}
+
+.banner{
+    background-color: orangered ;
+    color: white;
+    height: 400px;
+    text-align: center;
+}
+
+.footer1{
+    color:white;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.bottom{
+    background-color: rgb(231, 229, 229);
+}
+
+body{
+   /*background: #000 url ("https://ashgive.com/wp-content/uploads/2019/03/background-poster-keren-bermanfaat-wallpaper-background-jalan-raya-download-wallpaper-hd-for-pc-of-background-poster-keren.jpg") center center;*/
+   background-color: black;
+   
+}
+
+.form1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.terserah{
+    padding-top: 22px;
+}
+
+.form-group{
+    padding-left: 20px;
+    padding-right: 20px;
+}
